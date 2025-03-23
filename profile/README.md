@@ -14,9 +14,6 @@ RocketKitty can help you to launch your collection of files, code, music, data -
 - Platform independent
 - Secure
 
-![Screen Shot](../images/screen-shots/welcome.png)
-Welcome Screen
-
 ## Which RocketKitty Is Right For You?
 
 - If you would like to manage and share files and messages, use [DataKitty](https://github.com/RocketKitties/DataKitty).
