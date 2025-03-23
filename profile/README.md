@@ -4,7 +4,7 @@
 
 # RocketKitty
 
-RocketKitty is a complete family of self-hostable cloud-based data management and sharing platforms, each of which has been optimized for a particular application.
+RocketKitty is a complete family of self-hostable cloud-based data management and sharing platforms built upon the [Sharedigm](https://github.com/Sharedigm/) platform.
 
 RocketKitty can help you to launch your collection of files, code, music, data - your digital kitty - into the cloud and beyond.
 
