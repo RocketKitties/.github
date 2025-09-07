@@ -21,6 +21,7 @@ RocketKitty can help you to launch your collection of files, code, music, data -
 - If you mainly want to communicate with friends, family or colleagues, use [ChatKitty](https://github.com/RocketKitties/ChatKitty).
 - If you need to manage geolocated data, like aerial drone photos, use [MapKitty](https://github.com/RocketKitties/MapKitty).
 - If you want to manage and play music, podcasts, or audio, use [MusicKitty](https://github.com/RocketKitties/MusicKitty).
+- If you want to manage and play videos, use [VideoKitty](https://github.com/RocketKitties/VideoKitty).
 - If you are a software developer and want to manage your source code, use [SourceKitty](https://github.com/RocketKitties/SourceKitty).
 - If you just want to manage your files and don't need the ability to exchange messages, use [FileKitty](https://github.com/RocketKitties/FileKitty).
 - If you want to experiment with AI generated images, use [DreamKitty](https://github.com/RocketKitties/DreamKitty).
@@ -82,6 +83,14 @@ RocketKitty can help you to launch your collection of files, code, music, data -
 		<b>S3Kitty</b>
 	</a>
 	<p>S3Kitty is a cloud-based web interface for managing S3 data. It combines the capacity of S3 with the familiar look and feel of your desktop or mobile OS. Best of all, you can run it on your own server.</p>
+</p>
+
+<p>
+	<a href="https://github.com/RocketKitties/VideoKitty">
+		<img src="../images/logos/videokitty.svg" width="80">
+		<b>VideoKitty</b>
+	</a>
+	<p>VideoKitty is a cloud-based web interface for managing your videos. Best of all, you can run it on your own server.</p>
 </p>
 
 <p>
